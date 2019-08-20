@@ -25,6 +25,7 @@
 
   <ItemGroup>
     <Folder Include="Expressions\" />
+    <Folder Include="Document\" />
     <Folder Include="Schema\Conventions\" />
   </ItemGroup>
 
